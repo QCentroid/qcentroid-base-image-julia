@@ -5,5 +5,5 @@
 ## Run
 
 ```bash
-docker run quay.io/qcentroid/qcentroid-base-image-julia
+docker run -it quay.io/qcentroid/qcentroid-base-image-julia
 ```
